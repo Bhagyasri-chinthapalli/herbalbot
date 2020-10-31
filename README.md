@@ -1,4 +1,4 @@
-# herbalbot
+# Herbal Bot
 Objective:My bot is "Herbal bot"
 
 This is the explaniation about frontend of herbal bot
@@ -20,6 +20,9 @@ This is the explaniation about frontend of herbal bot
 8.If enter numbers other then that,it tells us sorry i cant understand you
 
 Repl.it link for this chatbot:
+
 https://herbal.18pa1a0534chint.repl.co
 
 youtube link for this chatbot:
+
+https://youtu.be/DUoUGy82_jA
